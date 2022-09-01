@@ -407,6 +407,7 @@ img {
   background-color: var(--footer-color);
 }
 .logo-footer {
+  display: block;
   color: var(--primary-text-color);
   font-family: Raleway;
   font-size: 26px;
