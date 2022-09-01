@@ -400,13 +400,10 @@ img {
 
 /* Footer */
 
-.footer-section {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-
 .footer {
   background-color: var(--footer-color);
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .logo-footer {
   display: block;
