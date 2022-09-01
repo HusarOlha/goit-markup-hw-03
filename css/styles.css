@@ -362,6 +362,9 @@ img {
   width: 370px;
   margin-right: 30px;
   margin-bottom: 30px;
+}
+
+.title-port .text-port {
   border: 1px solid var(--second-border-color);
 }
 
